@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.exe
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.deps.json
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.runtimeconfig.json
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.dll
+C:\Users\User\source\repos\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.pdb
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.login.resources
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.AssemblyInfo.cs
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.dll
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\refint\DesktopApp.dll
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.pdb
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.genruntimeconfig.cache
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\ref\DesktopApp.dll
+C:\Users\User\source\repos\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.HomePage.resources
